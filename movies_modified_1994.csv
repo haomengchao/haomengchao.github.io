@@ -1,0 +1,46 @@
+budget,genres,language,popularity,country,duration,vote_average,title_year,movie_title
+115000000,Action,English,38.729418,United States of America,141,6.8,1994,True Lies
+45000000,Family,English,90.457886,United States of America,89,8,1994,The Lion King
+63000000,Drama,English,13.859307,United States of America,191,6.5,1994,Wyatt Earp
+62000000,Action,English,18.832471,United States of America,141,6.4,1994,Clear and Present Danger
+55000000,Comedy,English,138.133331,United States of America,142,8.2,1994,Forrest Gump
+55000000,Drama,English,15.064058,United States of America,123,5.9,1994,Disclosure
+60000000,Horror,English,50.163785,United States of America,123,7.2,1994,Interview with the Vampire
+50000000,Action,English,20.333953,United States of America,104,5.5,1994,Beverly Hills Cop III
+50000000,Action,Český,9.114168,United States of America,102,4.5,1994,On Deadly Ground
+50000000,Action,English,21.312186,United States of America,99,5.8,1994,Baby's Day Out
+46000000,Fantasy,English,28.964162,United States of America,91,5,1994,The Flintstones
+45000000,Drama,English,17.746719,United States of America,119,6.4,1994,The Client
+45000000,Action,English,16.582709,Peru,110,5.5,1994,The Specialist
+45000000,Action,English,12.362876,United States of America,111,6.1,1994,The River Wild
+40000000,Comedy,English,14.398356,United States of America,95,5.4,1994,Ri¢hie Ri¢h
+25000000,Adventure,English,8.178203,United States of America,108,5.4,1994,The Shadow
+40000000,Comedy,English,4.516953,Canada,128,5.9,1994,Renaissance Man
+30000000,Comedy,English,14.188982,Germany,111,7.1,1994,The Hudsucker Proxy
+15000000,Fantasy,English,44.690107,United States of America,102,7.3,1994,The Crow
+38000000,Science Fiction,English,14.779041,United States of America,118,6.4,1994,Star Trek: Generations
+35000000,Action,English,19.286099,Japan,102,4.1,1994,Street Fighter
+30000000,Action,English,49.526736,United States of America,116,6.8,1994,Speed
+30000000,Adventure,,26.952727,United States of America,133,7.2,1994,Legends of the Fall
+30000000,Comedy,English,28.624038,United States of America,83,6.3,1994,The Naked Gun 33⅓: The Final Insult
+27000000,Thriller,English,13.308127,Japan,99,5.5,1994,Timecop
+26000000,Action,English,7.964451,Canada,99,4.5,1994,Highlander: The Final Dimension
+25000000,Drama,English,136.747729,United States of America,142,8.5,1994,The Shawshank Redemption
+25000000,Romance,English,8.870614,United States of America,97,6.2,1994,Don Juan DeMarco
+22000000,Fantasy,English,16.234053,United States of America,97,6.3,1994,The Santa Clause
+20000000,Adventure,English,3.581906,United States of America,107,6.2,1994,Rapa Nui
+23000000,Romance,svenska,85.30318,United States of America,101,6.6,1994,The Mask
+18000000,Comedy,English,24.548633,United States of America,127,7.3,1994,Ed Wood
+16000000,Comedy,English,35.777067,United States of America,107,6.5,1994,Dumb and Dumber
+18000000,Drama,English,16.418639,United States of America,115,7,1994,Little Women
+13000000,Comedy,English,6.170139,United States of America,95,6.4,1994,Serial Mom
+15000000,Comedy,English,41.249004,United States of America,86,6.4,1994,Ace Ventura: Pet Detective
+10500000,Drama,English,0.037073,United States of America,99,8.5,1994,There Goes My Baby
+10000000,Action,English,3.290639,United States of America,100,6,1994,A Low Down Dirty Shame
+9000000,Comedy,English,8.738737,United States of America,79,6,1994,PCU
+8000000,Thriller,English,121.463076,United States of America,154,8.3,1994,Pulp Fiction
+14000000,Horror,English,14.730796,United States of America,112,6.4,1994,New Nightmare
+5000000,Drama,English,8.753409,New Zealand,99,7,1994,Heavenly Creatures
+6000000,Comedy,English,29.834065,United Kingdom,117,6.6,1994,Four Weddings and a Funeral
+700000,Documentary,English,9.188431,United States of America,171,7.7,1994,Hoop Dreams
+27000,Comedy,English,19.748658,United States of America,92,7.4,1994,Clerks
